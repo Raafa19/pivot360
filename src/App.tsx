@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <h1>Pivot360</h1>
-      <p>Página Web</p>
+      <p>Página Web en construcción</p>
     </>
   )
 }
